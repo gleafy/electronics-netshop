@@ -1,0 +1,11 @@
+[project]
+name = "electronics_netshop"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "django>=4.2.27",
+    "django-filter>=25.1",
+    "djangorestframework>=3.16.1",
+    "psycopg2-binary>=2.9.11",
+    "python-dotenv>=1.2.1",
+]
